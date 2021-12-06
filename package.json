@@ -1,7 +1,6 @@
 {
   "name": "task-manager",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -24,5 +23,14 @@
   "devDependencies": {
     "env-cmd": "^8.0.2",
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChandreshBabu/Task-Manager-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChandreshBabu/Task-Manager-API/issues"
+  },
+  "homepage": "https://github.com/ChandreshBabu/Task-Manager-API#readme",
+  "description": ""
 }
